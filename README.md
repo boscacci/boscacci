@@ -6,16 +6,10 @@ I work off a little gaming laptop and sometimes spin up EC2 spot instances for c
 
 ### Background
 
-- **SilverRide** (2025–present) — Data engineering across Azure and AWS for a mission-driven paratransit company
-- **Angi** (2023–2025) — Fine-tuned text classification models to automate manual review processes; built ETL pipelines (Python, Docker, SQL) transforming image data into structured datasets; helped increase the team's data contribution to closed sales leads from ~15% to 50%+
-- **Butter Works** (2019–2023) — Led data science for social video analytics clients like Netflix, Spotify, and ViacomCBS; built an internal CV + NLP library to surface visual and linguistic trends from platform data
-- **Harbor Picture Company** (2016–2018) — Dailies technician and colorist processing terabytes of image/audio daily on multi-GPU Linux workstations for film and TV; traveled internationally on Netflix productions
-
-### Education
-
+- Built ETL and ML pipelines at **Angi** that helped grow the team's contribution to closed sales leads from ~15% to 50%+
+- Led data science at **Butter Works**, building CV + NLP tooling for social video analytics clients like Netflix and Spotify
+- Processed terabytes of film dailies on multi-GPU Linux rigs at **Harbor Picture Company**; traveled internationally on Netflix productions
 - AWS Certified Data Engineer (2025)
-- Object-Oriented Data Structures in C++, University of Illinois (2020)
-- B.A. Digital Filmmaking, Santa Clara University
 
 I like cycling, urban mobility, and community maker spaces. I moved from Brooklyn to Seattle with my two cats and I've been meaning to revitalize my [Flickr](https://www.flickr.com/photos/rboscacci1/). When I'm not perfecting biga pizza dough or cold-brewing 3L of medium-light roast, I'm playing [Arc Raiders](https://www.arcraiders.com/) or (in warmer months) backpacking and rock climbing.
 
