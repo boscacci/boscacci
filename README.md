@@ -1,13 +1,7 @@
 # Robert Boscacci
 
-Data engineer at [SilverRide](https://silverride.com/) working across **Azure + AWS**. Author. Former film colorist.
+Data engineer at [SilverRide](https://silverride.com/), working across Azure and AWS to help older adults get where they need to go. Former film colorist with [IMDb credits](https://www.imdb.com/name/nm4574526/) and author of [The Spring of Sight](https://robertboscacci.com/book/), a book about computer vision and where it's taking us as a society.
 
-I did a data science bootcamp in 2018 and never looked back. It’s 2026 now; we’re entering the era of Claude Code.
+I went to a data science bootcamp in 2018 and never looked back. These days I tend to vibe-code most things.
 
-### Things I’ve built
-
-- [Movie-Clapper-Detector](https://github.com/boscacci/Movie-Clapper-Detector) — computer vision object detection
-- [genetics-map-app](https://github.com/boscacci/genetics-map-app) — React/TypeScript mapping app
-- [Arduino-Subway-Clock](https://github.com/boscacci/Arduino-Subway-Clock) — build-your-own transit clock
-- [robertboscacci.com](https://github.com/boscacci/robertboscacci.com) — my site (Hugo)
-
+When I'm not at a terminal I'm usually backpacking, cycling, rock climbing, or cold-brewing an unreasonable amount of coffee. I write about some of that on [my blog](https://robertboscacci.com/blog/), and I keep a [projects page](https://robertboscacci.com/projects/) with the longer-form technical stuff.
