@@ -11,9 +11,3 @@ I did a data science bootcamp in 2018 and never looked back. It’s 2026 now; we
 - [Arduino-Subway-Clock](https://github.com/boscacci/Arduino-Subway-Clock) — build-your-own transit clock
 - [robertboscacci.com](https://github.com/boscacci/robertboscacci.com) — my site (Hugo)
 
-### Elsewhere
-
-- https://robertboscacci.com/
-- https://www.linkedin.com/in/rboscacci/
-- https://bsky.app/profile/robertboscacci.com
-
