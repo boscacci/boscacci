@@ -2,8 +2,6 @@
 
 Data engineer at [SilverRide](https://silverride.com/), working across Azure and AWS to help older adults get where they need to go. Former film colorist with [IMDb credits](https://www.imdb.com/name/nm4574526/) and author of [The Spring of Sight](https://robertboscacci.com/book/), a book about computer vision and where it's taking us as a society.
 
-I use Cursor but am thinking to transition to pure Claude Code.
-
 ### Career
 
 - **SilverRide** (2025–): Data engineering across Azure + AWS for mission-driven paratransit
